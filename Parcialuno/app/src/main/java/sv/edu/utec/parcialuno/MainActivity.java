@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
         }
         else
         {
-            tvmensaj.setText("Contraseña y/o usuario no son correctos");
+            tvmensaj.setText("Credenciales no son correctas");
         }
     }
 }
